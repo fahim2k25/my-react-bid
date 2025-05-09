@@ -1,0 +1,137 @@
+[
+    {
+      "id": 1,
+      "title": "Tokai Love-Rock LS-136F ZB Japan in Anaconda Burst",
+      "description": "Japanese craftsmanship meets vintage tone. Flame maple top with mahogany body, ZB pickups for authentic PAF sound. Limited edition Anaconda Burst finish.",
+      "currentBidPrice": 286650,
+      "timeLeft": "P3DT12H30M",
+      "bidsCount": 15,
+      "image": "/product_1.webp"
+    },
+    {
+      "id": 2,
+      "title": "Gibson 1958 Les Paul Standard, Sunburst-Slash of Guns N' Roses",
+      "description": "Historic '58 reissue with Slash's signature modifications. Lightweight mahogany body, uncovered Custombucker pickups. Includes certificate of authenticity.",
+      "currentBidPrice": 1754883,
+      "timeLeft": "P1DT6H15M",
+      "bidsCount": 22,
+      "image": "/product_2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Les Paul Standard 50s Plain Top, Tobacco Burst",
+      "description": "VOS-aged finish, 50s neck profile. Burstbucker 1 & 2 pickups with CTS pots. Original hardshell case included.",
+      "currentBidPrice": 385983,
+      "timeLeft": "P5DT18H45M",
+      "bidsCount": 12,
+      "image": "/product_3.png"
+    },
+    {
+      "id": 4,
+      "title": "Fender Stratocaster® NOS Vintage Custom 1955, Maple Fingerboard, Wide-Fade 2-Color Sunburst",
+      "description": "Master-built recreation of '55 specs. Soft V neck, 7.25\" radius, hand-wound single-coils. New Old Stock condition.",
+      "currentBidPrice": 1023750,
+      "timeLeft": "P2DT23H59M",
+      "bidsCount": 18,
+      "image": "/product_4.png"
+    },
+    {
+      "id": 5,
+      "title": "ESP Ltd EC1000T, Black Natural Burst",
+      "description": "Thin U-shaped neck with 24 XJ frets. Fishman Fluence Modern pickups, set-thru construction. Stage-ready rock machine.",
+      "currentBidPrice": 151983,
+      "timeLeft": "P4DT8H10M",
+      "bidsCount": 9,
+      "image": "/product_5.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Gretsch G2210 Streamliner Junior Jet Club",
+      "description": "Compact hollow-body with Broad'Tron pickups. Midnight Sapphire finish, 12\" radius ebony fretboard. Perfect for blues/jazz.",
+      "currentBidPrice": 58383,
+      "timeLeft": "P1DT3H20M",
+      "bidsCount": 25,
+      "image": "/product_6.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Ibanez Semi-Hollow-Body Guitar AMV10A",
+      "description": "Artcore Vintage series with Super 58 Custom pickups. Violin finish over nyatoh body. Floating tremolo system.",
+      "currentBidPrice": 105183,
+      "timeLeft": "P3DT9H5M",
+      "bidsCount": 14,
+      "image": "/product_7.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Martin D-35 Acoustic Guitar",
+      "description": "Legendary dreadnought with 3-piece rosewood back. Sitka spruce top, scalloped X-bracing. 1960s vintage restoration.",
+      "currentBidPrice": 701883,
+      "timeLeft": "P6DT14H0M",
+      "bidsCount": 8,
+      "image": "/product_8.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Les Paul Endémique - made de Luthier (French)",
+      "description": "Custom French luthier build with carved limba body. Bare Knuckle Riff Raff pickups, multi-scale 25.5-24.75\" neck.",
+      "currentBidPrice": 842400,
+      "timeLeft": "P7DT0H0M",
+      "bidsCount": 6,
+      "image": "/product_9.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Favier - Duraré Macassar ebony",
+      "description": "Bespoke Italian design with Macassar ebony top. Dual P90 configuration, compound radius fingerboard. Only 12 made worldwide.",
+      "currentBidPrice": 1345500,
+      "timeLeft": "P2DT12H30M",
+      "bidsCount": 11,
+      "image": "/product_10.webp"
+    },
+    {
+      "id": 11,
+      "title": "1965 Gibson SG Standard Electric Guitar",
+      "description": "All-original '65 with small pickguard. Patent Number humbuckers, lyre vibrola. Collector-grade condition.",
+      "currentBidPrice": 2632500,
+      "timeLeft": "P1DT0H45M",
+      "bidsCount": 29,
+      "image": "/product_11.png"
+    },
+    {
+      "id": 12,
+      "title": "Fender Stratocaster Olympic white",
+      "description": "Custom Shop '60s Relic. Roasted maple neck, Lollar Blackface pickups. Light aging with nitrocellulose finish.",
+      "currentBidPrice": 532350,
+      "timeLeft": "P3DT15H30M",
+      "bidsCount": 17,
+      "image": "/product_12.jpg"
+    },
+    {
+      "id": 13,
+      "title": "PRS SE Custom 24 Flamed Red Burst",
+      "description": "10-top flame maple veneer. 85/15 S pickups, pattern thin neck. With PRS SE hardshell case.",
+      "currentBidPrice": 105183,
+      "timeLeft": "P2DT20H0M",
+      "bidsCount": 21,
+      "image": "/product_13.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Fender Telecaster American Professional II",
+      "description": "Deep C neck profile, V-Mod II pickups. Mystic Surf Green finish. Includes Fender tweed case.",
+      "currentBidPrice": 198783,
+      "timeLeft": "P4DT6H15M",
+      "bidsCount": 13,
+      "image": "/product_14.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Fender Telecaster 1952",
+      "description": "NOCaster reissue with ash body. Twisted Tele pickup configuration, 7.25\" radius neck. Relic'd to heavy wear specs.",
+      "currentBidPrice": 497250,
+      "timeLeft": "P1DT23H55M",
+      "bidsCount": 19,
+      "image": "/product_15.jpg"
+    }
+  ]
