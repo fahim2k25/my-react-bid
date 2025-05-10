@@ -1,14 +1,15 @@
 import React from 'react';
 import Favbid from './Favbid';
 
-const Favorite = ({ favList }) => {
+const Favorite = ({ favList, handleRemovalFavList }) => {
 
+  //for calculating favList bid total
   const grandTotalArray = favList.map((e) => e.currentBidPrice);
   let grandTotal = 0;
   grandTotalArray.forEach(singlePrice => {
-    grandTotal+=singlePrice;
+    grandTotal += singlePrice;
   });
-  
+
 
   return (
 
@@ -24,6 +25,7 @@ const Favorite = ({ favList }) => {
 
       {/* Favorite data */}
       {
+        // ternary conditional to check if any items got selected for bid and render them
         (favList.length < 1 ? < div className='p-12 text-center'>
           <p className='sora-5 text-3xl'>
             No favorites yet
@@ -34,13 +36,13 @@ const Favorite = ({ favList }) => {
           <div className="divider"></div>
         </div> : <ul className="list bg-base-100 rounded-box text-[#0E2954]">
           {
-            favList.map((elem) => <Favbid key={elem.id} elem={elem}></Favbid>)
+            favList.map((elem) => <Favbid key={elem.id} elem={elem} handleRemovalFavList={handleRemovalFavList}></Favbid>)
           }
         </ul>)
       }
-      
 
       <div className="divider"></div>
+
       {/* Favorite total */}
       <footer className='flex justify-around sora-regular text-xl'>
         <p>Grand Total</p>

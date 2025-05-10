@@ -16,12 +16,13 @@ function dynamicTime(duration) {
 
 const Guitar = ({ singleGuitar, handleFavList }) => {
 
-
+    //this is for toast Alert
     const notify = () => {
         toast("Added the Product Successfully");
     }
 
     const { title, currentBidPrice, image, timeLeft } = singleGuitar;
+
 
     const [bid, setBid] = useState(false);
 

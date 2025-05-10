@@ -3,7 +3,7 @@ import Auction from '../Auction/Auction';
 import Favorite from '../Favorite/Favorite';
 
 
-const Bidding = ({ getGuitarPromise, handleFavList, favList }) => {
+const Bidding = ({ getGuitarPromise, handleFavList, favList, handleRemovalFavList }) => {
     const guitars = use(getGuitarPromise);
 
     return (
@@ -15,7 +15,7 @@ const Bidding = ({ getGuitarPromise, handleFavList, favList }) => {
                 </section>
                 <section className='flex justify-between gap-5'>
                     <Auction guitars={guitars} handleFavList={handleFavList} ></Auction>
-                    <Favorite favList={favList}></Favorite>
+                    <Favorite favList={favList} handleRemovalFavList={handleRemovalFavList}></Favorite>
                 </section>
             </div>
         </div>
