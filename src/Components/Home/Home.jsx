@@ -16,23 +16,23 @@ const Home = () => {
 
     const [favList, setFavList] = useState([]);
 
-    const handleFavList = (objGuitar) =>{
+    const handleFavList = (objGuitar) => {
         const tempArray = [...favList, objGuitar];
         setFavList(tempArray);
     }
 
     const getGuitarPromise = handleGuitarPromise();
-    
+
     return (
 
         <div>
-            <Navbar></Navbar>
+            <Navbar favList={favList}></Navbar>
             <Banner></Banner>
             <Suspense fallback={<h4>Loadding......</h4>}>
                 <Bidding favList={favList} getGuitarPromise={getGuitarPromise} handleFavList={handleFavList}></Bidding>
             </Suspense>
             <Footer></Footer>
-          
+
         </div>
 
     );
